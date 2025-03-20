@@ -23,7 +23,7 @@ console.log(process.env.NEXT_PUBLIC_VAR);
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+Prova            Save and see your changes instantly.
           </li>
         </ol>
 
